@@ -50,6 +50,10 @@ This project uses [Angular CLI](https://github.com/angular/angular-cli) version 
 
 ### Development Server
 
+Run `npm install` to install dependencies.
+
+### Development Server
+
 Run `ng serve` to start a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload when source files change.
 
 ### Code Scaffolding
@@ -59,6 +63,10 @@ Run `ng generate component component-name` to generate a new component. You can 
 ### Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+### Development Server
+
+Run `npm run start` to run the app. The application will be available at http://localhost4200
 
 ### Running Unit Tests
 
